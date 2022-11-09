@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.image img{
+    width: 470px;
+    height: 99.5vh;
+    transform: translate(1052px, -10px);
+}
+
+
+.logo{
+    padding: 20px 50px;
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.in-cont{
+    position: absolute;
+    transform: translate(1100px, -480px);
+}
+.text h1{
+    padding: 10px;
+    text-align: center;
+    font-size: 60px;
+    color: #FFF;
+}
+
+.text h3{
+    padding: 0 10px;
+    text-align: center;
+    color: #fff;
+}
+.btn2{
+    padding: 18px 90px;
+}
+.btn2 button{
+    padding: 18px 30px;
+    border: 0;
+    border-radius: 2rem;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #fff;
+    color: #314985;
+    box-shadow: 5px 0px 15px 5px ;
+}
+.welcome{
+    position: relative;
+}
+
+.image{
+    position: absolute;
+}
+.main-container{
+    background-color: #e5e5e5;
+}
+
+.contents{
+    height: 71vh;
+}
+
+.welcome{
+    padding: 0 210px;
+    color: #314985;
+}
+
+.welcome h1{
+    font-size: 50px;
+}
+
+.welcome h3{
+    padding-left: 120px;
+}
+
+.media{
+    display: flex;
+    gap: 10px;
+    padding:20px 145px;
+}
+
+.or{
+    padding: 0px 40px;
+}
+
+.logo{
+    display: flex;
+}
+
+.Nero{
+    font-size: 50px;
+    font-weight: bold;
+    color: #314985;
+    padding:50px 0px;
+    position: relative;
+    transform: translate(123px, -1px);
+}
+
+.logo img{
+    position: absolute;
+}
+
+.email{
+    padding: 30px 200px;
+    
+}
+
+#email{
+    padding: 18px 165px;
+    border-radius: 2rem;
+    border: 0;
+    color: #ced4d4;
+    text-align: center;
+}
+.pass{
+    padding-left: 200px;
+}
+#password{
+    padding: 18px 165px;
+    border-radius: 2rem;
+    border: 0;
+    color: #ced4d4;
+    text-align: center;
+}
+
+
+.btn1 button{
+    padding: 18px 30px;
+    border: 0;
+    border-radius: 2rem;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #314985;
+    color: #e5e5e5;
+    box-shadow: 5px 0px 15px 5px ;
+}
+
+.btn1{
+    padding: 30px 375px;
+}
+
